@@ -7,7 +7,7 @@ Node.JS bindings for Upwork API
 [![Build Status](https://travis-ci.org/upwork/node-upwork.svg)](https://travis-ci.org/upwork/node-upwork)
 
 # Introduction
-This project provides a set of resources of Upwork API from http://developers.upwork.com based on OAuth 1.0a.
+The project provides a set of resources of Upwork API from http://developers.upwork.com based on OAuth 1.0a.
 
 # Features
 These are the supported API resources:
@@ -48,7 +48,7 @@ The usage of this API is ruled by the Terms of Use at:
     https://developers.upwork.com/api-tos.html
 
 # Application Integration
-To integrate this library you need to have:
+For you to integrate this library you need to have:
 
 * Node.JS >= 0.9
 * npm >= 1.3.0
