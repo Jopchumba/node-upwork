@@ -3,7 +3,7 @@
  *
  * @package     UpworkAPI
  * @since       09/22/2014
- * @copyright   Copyright 2014(c) Upwork.com
+ * @copyright   Copyright 2019(c) Upwork.com
  * @author      Maksym Novozhylov <mnovozhilov@upwork.com>
  * @license     Upwork's API Terms of Use {@link https://developers.upwork.com/api-tos.html}
  */
@@ -76,8 +76,7 @@ function getUserData(api, callback) {
 }
 
 (function main() {
-  // uncomment only if you want to use your own client
-  // make sure you know what you're doing
+  // uncomment the code only if you want to use your own client and make sure you know what your doing
   // var client = new MyClient(config);
   // var api = new UpworkApi(null, client);
 
